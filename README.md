@@ -32,8 +32,11 @@ Instalación
 
 ---
 
-REalizado en: 
+REalizado en:
+
 PHP – Programación orientada a objetos
+
 JSON – Almacenamiento de datos simple
+
 HTML/CSS – Interfaz básica
 
