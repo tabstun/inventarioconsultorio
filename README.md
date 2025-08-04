@@ -15,7 +15,7 @@ Datos guardados en JSON: la información se mantiene entre sesiones.
 
 ---
 
-## 🛠️ Requisitos
+Requisitos
 
 - XAMPP (o cualquier servidor local con PHP)
 - Navegador web
@@ -23,12 +23,14 @@ Datos guardados en JSON: la información se mantiene entre sesiones.
 
 ---
 
-## ⚙️ Instalación
+Instalación
 
 1. Clona este repositorio o descarga los archivos como ZIP
 2. C:\xampp\htdocs\insumosconsultorio
 3. Inicia Apache en XAMPP.
 4. Abre tu navegador y entra a: http://localhost/insumosconsultorio/index.php
+
+---
 
 REalizado en: 
 PHP – Programación orientada a objetos
